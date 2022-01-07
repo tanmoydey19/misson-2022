@@ -1,0 +1,71 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+
+    }
+    h1{
+        font-size: 40px;
+    }
+    .h2{
+        color: orange;
+    }
+    .link-button{
+        text-decoration: none;
+        background-color: tomato;
+        padding: 10px 40px;
+        border-radius: 5%;
+        color: white;
+        font-weight: 700;
+    
+    }
+    .top{
+        display: flex;
+        
+    }
+    .top-1{
+        width: 50%;
+        padding-left: 5%;
+    
+    }
+    .padma-pic{
+        width: 70%;
+        height: 70%;
+        padding-left:  3%;
+        background: no-repeat;
+        margin-top: 8%;
+
+        
+    }
+    .top{
+        background-image: url(images/top-banner.png);
+        background-repeat: no-repeat;
+    }
+
+   .box-one{
+       background-color: salmon;
+       
+   }
+
+   .box-two{
+    background-color: seagreen;
+    
+}
+
+.box-three{
+    background-color: rgb(61, 61, 156);
+    
+}
+.box-three-pic{
+    width: 10%;
+   }
+.box-two-pic{
+    width: 10%;
+}
+.box-one-pic{
+    width: 10px 10px
+    background-repeat: no-repeat;
+}
+
+
+  
+ 
